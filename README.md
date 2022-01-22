@@ -17,7 +17,7 @@ In this project, I am replacing Thomas High School’s ninth graders results wit
 - How is the school summary affected?
 	- Thomas High School Passing Reading percent decreased from 97.3% to 69.7%, overall passing percent decreased from 90.9% to 65%
 
-![Thomas High school Summary](/Resources/Initial_THS_Summary.png)
+![Thomas High school Summary](/Resources/Initial_THS_summary.png)
 
 ![Updated District Summary](/Resources/New_THS_Summary.png)
 
