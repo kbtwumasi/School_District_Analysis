@@ -8,16 +8,16 @@ In this project, I am replacing Thomas High School’s ninth graders results wit
 ## Results
 
 - How is the district summary affected?
-	- The dstrict summary average math score decreased from 79.0 to 78.9, passing math percent decreased from 75% to 74.8%, passing reading percent decreased from 86% to 85.7% and overall passing percent decreased from 65% to 64.9%.
+	- From the images below, the dstrict summary average math score decreased from 79.0 to 78.9, passing math percent decreased from 75% to 74.8%, passing reading percent decreased from 86% to 85.7% and overall passing percent decreased from 65% to 64.9%.
 
-![Previous District summary](/Resources/initial_district_summary.png)
+![Previous District summary](/Resources/Initial_district_summary.png)
 
 ![Updated District summary](/Resources/new_District_summary.png)
 
 - How is the school summary affected?
 	- Thomas High School Passing Reading percent decreased from 97.3% to 69.7%, overall passing percent decreased from 90.9% to 65%
 
-![Thomas High school Summary](/Resources/initial_THS_Summary.png)
+![Thomas High school Summary](/Resources/Initial_THS_Summary.png)
 
 ![Updated District Summary](/Resources/New_THS_Summary.png)
 
@@ -25,16 +25,16 @@ In this project, I am replacing Thomas High School’s ninth graders results wit
 
 	- No other school’s performance was affected by replacing Thomas High School ninth graders scores.
 
-- How does replacing the ninth-grade scores affect the following? 
+- How does replacing the ninth-grade scores affect the following?
+
 	- Math and reading scores by grade remained the same for other grades and other schools. 
-	- Scores by school spending: Scores by school spending stayed the same
+	- Scores by school spending stayed the same
 ![Scores by School Spending](/Resources/scores_by_school_spending.png)
 
 	- Scores by school size stayed the same
-
 ![Scores by school size](/Resources/scores_by_school_size.png)
-	- Scores by school type stayed the same
 
+	- Scores by school type stayed the same
 ![Scores by school type](/Resources/scores_by_school_type.png)
 
 ## Summary
